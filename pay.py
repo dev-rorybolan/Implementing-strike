@@ -17,4 +17,4 @@ def ssend_payment(amount, recipient):
     return response.json()
 
 def send_payment(amount, recipient):
-    pass
+    return []
